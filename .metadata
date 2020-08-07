@@ -1,9 +1,11 @@
 {
-  "version" : "1.0",
-  "tags" : "Cheats and God Items",
   "author" : "u/vlad",
-  "description" : "Super fast output from factories? Why not? With this mod your idle factories produce new item every 0.01s!\nWorks with addons like FU addon, because it makes only small changing in the main script :)",
+  "description" : "Super fast output from factories? Why not? With this mod your idle factories produce new item every 0.01s!\nWorks with addons like FU addon, because it makes only small changing in the main script :)\n\n[b]My Discord: https://discord.gg/mQBjnuH[/b]",
+  "friendlyName" : "Cheaty Factories",
+  "link" : "steam://url/CommunityFilePage/2189992605",
   "name" : "cheaty idle factories",
-  "priority": 9999,
-  "friendlyName" : "Cheaty Factories"
+  "priority" : 9999,
+  "steamContentId" : "2189992605",
+  "tags" : "Cheats and God Items",
+  "version" : "1.0"
 }
